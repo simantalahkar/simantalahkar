@@ -3,7 +3,7 @@
 🔬 **Computational Physicist turned Scientific Software Developer and Data Engineer**<br>
 🧑‍💻 Currently designing databases for large-scale atomistic simulation data at TU Eindhoven × IBM Research<br>
 🚀 Passionate about bridging scientific computing with modern data engineering and AI technologies<br>
-💡 Love building tools that make complex scientificand engineering workflows accessible and scalable<br>
+💡 Love building tools that make complex scientific and engineering workflows accessible and scalable<br>
 🌍 Based in Den Bosch, Netherlands<br>
 ⚡ Fun fact: I enjoy cooking, drone cinematography, and swimming when not debugging simulation data pipelines!
 
