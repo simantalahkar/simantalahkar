@@ -29,12 +29,12 @@
 
 ## 🚀 What I'm Working On:
 
-### 🔬 Scientific Database Architecture & Data Stewardship
-Designing hybrid database systems (time-series + graph + document) for TB-scale molecular dynamics simulation data, integrating InfluxDB, Neo4j, and MongoDB with cloud-native data pipelines. Implementing data governance frameworks and metadata management for reproducible scientific workflows.
+### 🔬 Scientific Cloud-Native Data Infrastructure & AI Integration
+Building an open-source, cloud-native pipeline for large-scale molecular dynamics data. Using MinIO for scalable storage, Apache Spark and Delta Lake for transforming raw trajectories into structured formats, and Trino for fast SQL querying. Integrating MLflow for reproducible AI workflows and orchestrating everything with Apache Airflow. Focused on scalable, metadata-rich infrastructure for scientific computing.
 
 ### 🧬 LAMMPSKit - Production-Ready Scientific Package
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/simantalahkar/lammpskit) [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/lammpskit/)
-Created a modular Python toolkit for LAMMPS simulation analysis with 60% memory reduction, 40% performance improvement, and comprehensive testing (270+ tests, 94% coverage).
+Developed a modular Python toolkit for LAMMPS simulation analysis, backed by 270+ tests (94% coverage), Dockerized for portability, and powered by robust CI/CD. Achieved 60% memory savings and 40% faster performance compared to typical scientific scripting workflows.
 
 ### ⚛️ LAMMPS Extension for Electrochemical Simulations  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/simantalahkar/LAMMPS-CTIP-EChemDID)
