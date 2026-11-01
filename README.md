@@ -19,7 +19,7 @@ Data-driven modelling and simulation of complex physical systems: a PhD in compu
 
 ## Featured repositories
 
-- **[lammpskit](https://github.com/simantalahkar/lammpskit)** · an open-source Python package ([PyPI](https://pypi.org/project/lammpskit/), Docker, [Read the Docs](https://lammpskit.readthedocs.io)) for analysing LAMMPS molecular-dynamics simulations of ReRAM devices, with 96% test coverage; used by ~4 researchers at TU/e and IBM Research.
+- **[lammpskit](https://github.com/simantalahkar/lammpskit)** · an open-source Python package ([PyPI](https://pypi.org/project/lammpskit/), Docker, [Read the Docs](https://lammpskit.readthedocs.io)) for analysing LAMMPS molecular-dynamics simulations of ReRAM devices, with 93% test coverage; used by ~4 researchers at TU/e and IBM Research.
 - **[LAMMPS-CTIP-EChemDID](https://github.com/simantalahkar/LAMMPS-CTIP-EChemDID)** · integrates and extends two LAMMPS packages (CTIP charge transfer and EChemDID electrochemistry) into one open-source C++ package, with my own changes to the formulation, to simulate filament forming in HfO2/TaOx ReRAM devices under applied bias ([arXiv:2505.24468](https://arxiv.org/abs/2505.24468)).
 - **[poly-tr-mechanism](https://github.com/simantalahkar/poly-tr-mechanism)** · scripts and data for molecular-dynamics heat-transport and phonon simulations of graded polycrystalline graphene with up to ~1.04M atoms, which identified the competing mechanisms behind its thermal rectification (first author, Carbon 2024).
 
